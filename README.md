@@ -10,7 +10,7 @@ This Streamlit web application predicts whether an individual is likely to have 
 ## Dataset
 
 - **Dataset Name**: Diabetes dataset
-- **Data Source**: [Link to the dataset on Git]
+- **Data Source**: [upload on git]
 - The dataset contains the following attributes:
   - Feature columns (8): Numerical values representing various health-related features.
   - Target column: Binary variable (0 for no diabetes, 1 for diabetes).
